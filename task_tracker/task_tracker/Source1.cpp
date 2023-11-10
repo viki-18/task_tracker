@@ -11,9 +11,12 @@ Sa se creeze o lista de studenti si apoi un meniu care permite
 */
 
 #include<iostream>
+#include<fstream>
 #include<string>
 #include<list>
 using namespace std;
+ifstream ufin;
+ifstream tfin;
 class persoana {
 private:
 	string _prenume;

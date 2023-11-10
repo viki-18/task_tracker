@@ -1,5 +1,2 @@
-﻿  Source.cpp
-c:\users\lenovo4\onedrive\desktop\task_tracker\task_tracker\task_tracker\source.cpp(35): error C2535: 'TaskList::TaskList(void)': member function already defined or declared
-  c:\users\lenovo4\onedrive\desktop\task_tracker\task_tracker\task_tracker\source.cpp(34): note: see declaration of 'TaskList::TaskList'
-c:\users\lenovo4\onedrive\desktop\task_tracker\task_tracker\task_tracker\source.cpp(47): error C2535: 'User::User(void)': member function already defined or declared
-  c:\users\lenovo4\onedrive\desktop\task_tracker\task_tracker\task_tracker\source.cpp(46): note: see declaration of 'User::User'
+﻿  tasktracker.cpp
+  task_tracker.vcxproj -> C:\Users\Lenovo4\OneDrive\Desktop\task_tracker\task_tracker\Debug\task_tracker.exe
